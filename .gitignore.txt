@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+venv/
+.env/
+.venv/
+
+.idea/
+.vscode/
+
+.DS_Store
+*.log
+
+*.db
+
+bot_token
